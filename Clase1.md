@@ -1,7 +1,8 @@
 # Instalación con drush
 
 > Nota: Tiene que ser drush versión 8
-
+0. verificar drush con `drush status`
+![](./assets/img/drushStatus.png)
 1. Creamos un host
 2. Abrimos la consola y nos ubicamos en la carpeta en donde trabajaremos, `htdocs?` de xampp
 3. Descargamos la última versión de drupal con el comando `drush dl` y esperamos a que descargue...
