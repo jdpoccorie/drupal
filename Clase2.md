@@ -32,3 +32,5 @@
   * Help
 * **Shorcuts**: Atajos
 * **admin**: Info del que hizo el login
+
+[Ir al inicio](./README.md)
