@@ -1,3 +1,6 @@
+- [Clase 2](#clase-2)
+  - [Dashboard y Toolbar](#dashboard-y-toolbar)
+
 # Clase 2
 
 ## Dashboard y Toolbar
